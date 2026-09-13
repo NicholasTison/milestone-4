@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Investigating Predictors of Cardiovascular Disease",
+    "section": "",
+    "text": "Using data from the CDC’s 2024 Behavioral Risk Factor Surveillance System (BRFSS), this project explores how lifestyle habits—such as smoking and physical inactivity—relate to cardiovascular disease (including heart attack, angina/coronary heart disease, and stroke)."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Investigating Predictors of Cardiovascular Disease",
+    "section": "",
+    "text": "Using data from the CDC’s 2024 Behavioral Risk Factor Surveillance System (BRFSS), this project explores how lifestyle habits—such as smoking and physical inactivity—relate to cardiovascular disease (including heart attack, angina/coronary heart disease, and stroke)."
+  },
+  {
+    "objectID": "index.html#key-findings",
+    "href": "index.html#key-findings",
+    "title": "Investigating Predictors of Cardiovascular Disease",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nPhysical Activity: Inactive adults report nearly double the rate of cardiovascular disease compared to those who engage in regular physical activity.\nSmoking: Adults who currently smoke or previously smoked show substantially higher rates of cardiovascular disease than adults who have never smoked."
+  },
+  {
+    "objectID": "index.html#the-role-of-age-and-cumulative-risk",
+    "href": "index.html#the-role-of-age-and-cumulative-risk",
+    "title": "Investigating Predictors of Cardiovascular Disease",
+    "section": "The Role of Age and Cumulative Risk",
+    "text": "The Role of Age and Cumulative Risk\nCardiovascular disease remains the leading cause of mortality in the United States. While lifestyle habits like smoking and inactivity are crucial modifiable risk factors, cardiovascular risk is also fundamentally shaped by non-modifiable biological factors—most prominently age. In the BRFSS dataset, cardiovascular disease prevalence climbs steadily across every age bracket, rising from just over 1% among young adults aged 18–24 to nearly 30% among adults aged 80 and older. This steep gradient reflects decades of cumulative vascular stress, plaque accumulation, and arterial stiffening.\nImportantly, lifestyle behaviors and aging do not act in isolation. While chronological aging increases baseline vulnerability, regular physical exercise and tobacco cessation significantly attenuate this risk, helping older adults maintain better cardiovascular function. Disentangling how much of cardiovascular risk stems from biological aging versus preventable behavioral habits is essential for targeting public health interventions where they will have the greatest life-saving impact."
+  }
+]
